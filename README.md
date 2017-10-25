@@ -1,0 +1,2 @@
+# beezty
+GitHub Pages
